@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+     background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    ;
+}
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    border-bottom: 0.4px solid #FFF2E7;
+    padding-bottom: 20px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 40px;
+    
+}
+.cabecalho-texto {
+    font: 400;
+    color: #FFF2E7;
+    font-family: sarala;
+    
+    
+}
+
+main {
+    margin-top: 100px;
+   
+}
+
+.principal {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;        
+}
+
+.h1-menu {
+    margin-bottom: 30px;
+    font-size: 64px;
+    color: #FFF2E7;
+    font-family: righteous;
+}
+
+.subtitulo-menu {
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: #ECD6C4;
+    font-family: sarala;
+}
+
+button {
+    width: 185px;
+    height: 67px;
+    background-color: #ECD6C4;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-family: sarala;
+}
+
+button:hover {
+    width: 185px;
+    height: 67px;
+    background-color: #7a7a7a;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-family: sarala;
+}
+
+
+
+.texto-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.titulo-subscrito {
+    margin-bottom: 35px;
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 95px;
+    font-size: 24px;
+    font-family: righteous;
+    font-weight: 400px;
+    color: #FFF2E7;
+}
+.paragrafo1-subscrito {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: sarala;
+    font-weight: 700px;
+    color: #ECD6C4;
+}
+
+.paragrafo2-subscrito {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: sarala;
+    font-weight: 700px;
+    color: #ECD6C4;
+}
+
+
+.paragrafo3-sbscrito {
+    font-size: 18px;
+    font-family: sarala;
+    font-weight: 700px;
+    color: #ECD6C4;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
