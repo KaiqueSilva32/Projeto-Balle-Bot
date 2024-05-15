@@ -1,1 +1,1 @@
-
+Uma Landing Page feita por mim Kaique Silva, para teste e aprendizado de como usar a aplicação git e github. Sobre a landing page, se trata de uma tela de venda de um bot do discord que irá ajudar a moderar os servidores do discord.
